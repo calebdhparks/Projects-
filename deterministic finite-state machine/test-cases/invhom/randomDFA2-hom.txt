@@ -1,0 +1,65 @@
+Input alphabet: !"#$%(*+,-/01256789:=>?ABDFIJKLMNOQRUWYZ[\]^_adghikmnostuwxz{|~
+Output alphabet:  #$%'()+.014679:=>@BDEFIJKMOPQRSTUVWYZ\^_`bcdehimqrstuwy}~
+ #$%'()+.014679:=>@BDEFIJKMOPQRSTUVWYZ\^_`bcdehimqrstuwy}~
+ #$%'()+.014679:=>@BDEFRSTUVWYZ\^_`bcdehimqrstuwy}~
+ #$%'()+.014KMOPQRSTUVWYZ\^_`bcdehimqrstuwy}~
+ #$%'()+.014679:=>@BDEFIJKMZ\^_`bcdehimqrstuwy}~
+#$%'()+.0   14679:=>@BDEFIJKMOPQRSTUVWYZ\^_mqrstuwy}~
+#$%'()+.0Z\^_`bcdehimqrstuwy}~
+   #$%'()+.014679:=>@B
+#$%'()+.014679:=>@BD`bcdehimqrstuwy}~
+14679:=>@BDEFIJKMOPQRSTUVWYZ\^_`bcdehimqrstuwy}~
+014679:=>@BDEFIJTUVWYZ\^_`bcdehimqrstuwy}~
+#$%'()+.01BDEFIJKMOPQRSTUdehimqrstuwy}~
++.014679:=>@ BDEFIJ KMOP QRSTUVWY Z\^_`bcde himqrstuwy}~
+)+.01467OPQRSTUVWYZ\^_`bcdehi
+#$%:=>@BDEFIJKMOPQRST^_`bcdehimqrstuwy}~
+#$%'()+.MOPQRSbcdehimqrstuwy}~014679:=>@B DEFIJK
+9:=>@BDEFIJKMO PQRSTUVW#$%'()+.01467YZ\^_`bcdtuwy}~
+#$%'()+.0OPQRSTUVWYZ\^_`bcdehimqrstuwy}~
+#$%'()+.014679:=>@BDEFIJOPQRSTUVWYZ\^_`bcdehimqrstuwy}~
+#$%'()+.014679:RST UVWYZ\^_`bcdehimqrstuwy}~
+}~
+#
+#$%'()+.014679=>@BDEFIJKMOPQRSTUVWYZ\^_`bcdehimqrstuwy}~
+()+.0MOPQRST1()+.01()+.01#$%'4679:=>@BDEFIJKUVWYZ\^_`bcdehimqrstuwy}~
+
+#$%'()+.014679:=>@BDEFIJKMOPQRSTUVWYZ\^_`bcdehimqrstuwy}~
+ 
+)+.0 14#$%' BDEFIJKMOPQR(679:=WYZ\^_`bcd>@Sstuwy}TUVehimqr
+#$%'()+. 014679:=>@BDEFIJKMOPQRSTUVWYZ\^_`bcdehimqrstuwy}~#$%'()+.014679:=>@BDEFIJKMOPQRSTUVWYZ\^_`bcdehimqrstuwy}~
+#$%'~
+ #$%'()+.0ehimqrstuwy}~14679\^_`bcd
+4679:=>@BDEFtuwy~STUVWYZ\^_`bcd IJKMOPQRehimqrs
+79:=>@BDE#$ %'()+.0146FIJKMOPQRSTUV79:=>@BDEWYZ\^_`bcdehim79:=>@B
+##$$$%%%% '''''''''''''''''
+UVWYVWYVWYVWYVWYVWYVWYVWYVWYVWYVWYVWYVWYVWYZ
+#$%'(TUVWYZ\^_`bcdehimqrstuwy}~
+#$%'()+.014679:=>@BDEFIJKMOPcdehim
+79:=>@BDVWYZ\^_`bcdehi
+014679BDSTUVWYZbcEFIJKMOPQRdehimq
+ #$%'()+.0146YZ\^_`bcdehimqrst
+#$%'>@BDEFIJKMOPQRSTUYZ\^_`bcdeqrsty}~
+#$%'()+.09:=>@ JKMOPQRSTUVWtuwy}~bcdehimqr
+#$%'()+.0146QRSTUVWYZ\^_`bcdehimqrstuwy}~
+ #$ #$ #$ #$ #$%'(79:=>@BDEFI QRSTUVWYZdehimqrstuwy}~\^_`bc
+stuwy}~#$%'()+.014679:=>@BDEFIJKMOPQRSTUVWYZ\^_`bcdehimqr
+IJ  KMOPQRSTUVWYZ\^_`bcdehim qrstuwy}~#$%'()+.014679:=>@BDEF
+imqrs tuwy}~#$%'()+.014679:=>@BDEFIJKMOPQRSTUVWYZ\^_`bcdeh
+.014679:=>@BDEFIJKMOPQRS  TUVWYZ\^_`bcdeh imqrstuwy}~#$%'()+
+$%'(14679:=>@BDZ\^_`bcdehi mqrstuwy}~EFI JKMOPQRSTUVWY
++.0146YZ\^_`bcdehi#'()  
+_`wy}~RY Z\^
+.:=>@+.:#$%'(=>@\^_`}~+.:=>@)+ 
+)+.0179@BDEKMOPQUVWYZ\^_`      
+T
+~}ywutsrq#$%'()+.0  14679:=>@BDEFTUVWYZ\^_`bcIJKMOPQRS
+.0
+6hry ~BQU^_e
+#$%'()+.014679:=>@BDEFIJKMOPQ
+ RSTUVWYZ\^_`bcdehimqrstuwy}~
+679:=>@BDEFIJKMOPQRSTUVWYZ\^_`bcdehimqrstuwy}~
+# $%'()+.014679:=>@BDEFIJKMOPQRSTUVWYZ\^_`
+.014mqrs mqrsmqrs679:=cdehituwy
+bcdehimqrstuwy
+014679

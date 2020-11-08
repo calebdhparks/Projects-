@@ -1,0 +1,11 @@
+Input alphabet: ABCDEFGHI
+Output alphabet: 0123456789abcdefghijklmnopqrstuvwxyz
+thisisline1
+hereisalinewith27characters
+thenext3wordsareingerman
+angenommenhandybewachungfinsternis
+thequickbrownfoxjumpsoverthelazydog
+206bones
+2tothe16equals65536
+1stbastilleday14juli1789actuallyoneyearlater
+biggerdfacountsmodulo101

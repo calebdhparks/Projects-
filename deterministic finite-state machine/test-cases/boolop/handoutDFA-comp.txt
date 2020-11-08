@@ -1,0 +1,8 @@
+Number of states: 5
+Accepting states: 0 2 3
+Alphabet: 01
+0 1
+2 3
+4 0
+1 2
+3 4

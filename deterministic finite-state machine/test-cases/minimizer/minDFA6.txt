@@ -1,0 +1,4 @@
+Number of states: 1
+Accepting states:
+Alphabet: 0123456789abcdef
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0

@@ -1,0 +1,5 @@
+Input alphabet: 012
+Output alphabet: 0123456789abcdef
+59d03aff2538
+b11c7749e1
+566c3ca802d

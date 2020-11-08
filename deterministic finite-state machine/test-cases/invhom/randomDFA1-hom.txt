@@ -1,0 +1,3 @@
+Input alphabet: x
+Output alphabet: !"#$%(*+,-/01256789:=>?ABDFIJKLMNOQRUWYZ[\]^_adghikmnostuwxz{|~
+!"#$%(*+,-/01256789:=>?ABDFIJKLMNOQRUWYZ[\]^_adghikmnostuwxz{|~
